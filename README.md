@@ -62,46 +62,6 @@ rigorous model evaluation.
 | [Latent Adversarial Diffusion Distillation](https://github.com/Vsemmir13/latent-adversarial-diffusion-distillation) | Paper implementation and generative-model evaluation with FID. |
 | [RegRadar](https://github.com/Vsemmir13/regradar-hackathon) | Team-built evidence-first AI system with model adapters, evaluation, FastAPI, React, and deployment infrastructure. |
 
-## Technical foundation
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
-
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-</p>
-
-## Research workflow
-
-```text
-paper / question
-      -> minimal implementation
-      -> strong baseline
-      -> controlled experiment
-      -> evaluation and failure analysis
-      -> reproducible artifact
-```
-
-I prefer explicit hypotheses, frozen datasets and splits, measured conclusions,
-and saved code, configs, checkpoints, metrics, and reports.
-
-## GitHub activity
-
-<div align="center">
-  <img alt="Egor's GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vsemmir13&theme=transparent" />
-</div>
-
 ---
 
 <div align="center">
