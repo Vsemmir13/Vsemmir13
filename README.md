@@ -2,12 +2,12 @@
 
 # Egor Leontenkov
 
-### Research Engineer Track · Reinforcement Learning · LLM Post-Training
+### ML Engineer · Reinforcement Learning · LLM Post-Training
 
 ML Engineer at Sber · HSE CS AMI '26 · Moscow
 
-I am building toward research-engineering roles focused on reinforcement
-learning, LLM alignment and post-training, scalable training systems, and
+I work on machine learning research and deep learning systems. My professional
+interests include reinforcement learning, LLM post-training, alignment, and
 rigorous model evaluation.
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Egor_Leontenkov_CV.pdf)
@@ -17,18 +17,15 @@ rigorous model evaluation.
 
 </div>
 
-## Main targets
+## Skills & interests
 
-These are the capabilities I am deliberately building next. They are targets,
-not claims of completed expertise.
-
-| Track | Target outcome |
+| Area | Focus |
 | --- | --- |
-| **Reinforcement learning** | Implement and analyze policy gradients, actor-critic methods, PPO, offline RL, and preference-based learning with reproducible experiments. |
-| **LLM post-training** | Build an end-to-end pipeline spanning supervised fine-tuning, preference optimization, reward modeling, RLHF/RLAIF, and behavioral evaluation. |
-| **Training systems** | Develop practical experience with mixed precision, profiling, DDP, FSDP, tensor/pipeline parallelism, checkpointing, and failure recovery. |
-| **Evaluation** | Design benchmarks that separate capability, robustness, uncertainty, safety, and distribution shift instead of relying on a single aggregate score. |
-| **Research engineering** | Turn papers into tested implementations, controlled experiments, reusable infrastructure, and concise technical reports. |
+| **Reinforcement learning** | Policy gradients, actor-critic methods, PPO, offline RL, and preference-based learning. |
+| **LLM post-training** | Supervised fine-tuning, preference optimization, reward modeling, RLHF/RLAIF, and behavioral evaluation. |
+| **Training systems** | Mixed precision, profiling, DDP, FSDP, tensor/pipeline parallelism, checkpointing, and failure recovery. |
+| **Evaluation** | Capability, robustness, uncertainty, safety, and distribution-shift evaluation. |
+| **Research engineering** | Reproducible experiments, tested implementations, reusable infrastructure, and technical reporting. |
 
 ## Resume
 
@@ -108,5 +105,5 @@ and saved code, configs, checkpoints, metrics, and reports.
 ---
 
 <div align="center">
-  <sub>Career direction: Research Engineer in RL, LLM post-training, alignment, and evaluation.</sub>
+  <sub>Interested in reinforcement learning, LLM post-training, alignment, and evaluation.</sub>
 </div>
